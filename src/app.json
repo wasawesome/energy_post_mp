@@ -10,4 +10,12 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   }
+// 	"usingComponents": {
+// 		"i-card": "../static/iview-weapp/card/index",
+// 		"i-panel": "../static/iview-weapp/panel/index",
+// 		"i-button": "../static/iview-weapp/button/index",
+// 		"i-toast": "../static/iview-weapp/toast/index",
+// 		"i-row": "../static/iview-weapp/row/index",
+// 	  "i-col": "../static/iview-weapp/col/index"
+// 	},
 }
